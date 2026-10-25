@@ -1,0 +1,8 @@
+{
+  "name": "dmqrx-mods",
+  "owner": { "name": "Xyron Parapara (Double Mark Sound)" },
+  "plugins": [
+    { "name": "dmqrx-router", "source": "./dmqrx-router", "description": "Per-prompt model/effort/subagent routing; main on Opus 5.5 medium." },
+    { "name": "dmqrx-usage", "source": "./dmqrx-usage", "description": "Usage pane: 5-hour and weekly limits, credits, context, compact button." }
+  ]
+}

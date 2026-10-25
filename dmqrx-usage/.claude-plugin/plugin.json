@@ -1,0 +1,1 @@
+{ "name": "dmqrx-usage", "version": "0.1.0", "description": "Usage pane: 5-hour and weekly limits with reset times, session cost against extra-usage credits, context fill, and a compact button that lights when it is safe.", "types": "./types/index.d.ts" }

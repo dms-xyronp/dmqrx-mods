@@ -1,0 +1,1 @@
+{ "name": "dmqrx-router", "version": "0.1.0", "description": "Cheap per-prompt routing: Haiku rates each prompt (model tier, effort, subagents, intern hand-off); main runs Opus 5.5 medium, subagents capped at Opus 5.5 medium.", "types": "./types/index.d.ts" }
